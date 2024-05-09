@@ -120,11 +120,13 @@
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="pictureBox1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
-        iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
-        YQUAAAAJcEhZcwAAA68AAAOvARgesX0AAAAZdEVYdFNvZnR3YXJlAHd3dy5pbmtzY2FwZS5vcmeb7jwa
-        AAAAbElEQVRYR2MYBTBgZGR0wNjY+D89MMguqLUIMJgc8MDExKSBFhhkNkEHYJWkEsBrx6BxABAPbBTQ
-        Aw9OB4yC0TSA5IDRknBgHQDEoyUhzTFWB4yC0TSA5IDRknBgHQDEoyUhzTFWB4xQwMAAAFI0C/JKUvS/
-        AAAAAElFTkSuQmCC
+        iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAD
+        rwAAA68BGB6xfQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAABsSURBVFhHYxgF
+        MGBkZHTA2Nj4Pz0wyC6otQgwmBzwwMTEpIEWGGQ2QQdglaQSwGvHoHEAEA9sFNADD04HjILRNIDkgNGS
+        cGAdAMSjJSHNMVYHjILRNIDkgNGScGAdAMSjJSHNMVYHjFDAwAAAUjQL8kpS9L8AAAAASUVORK5CYII=
 </value>
   </data>
+  <metadata name="menuTransition.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
 </root>

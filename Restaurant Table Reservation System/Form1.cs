@@ -6,5 +6,10 @@ namespace Restaurant_Table_Reservation_System
         {
             InitializeComponent();
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
